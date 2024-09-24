@@ -1,6 +1,6 @@
-//Objetos
+// Objetos
 {
-  //Objetos users para aplicação
+  // Objetos users para aplicação
   "users": [
     {
       "name": "Sobhan name",
@@ -35,7 +35,7 @@
       "id": 6
     }
   ],
-  //Objetos companies para aplicação
+  // Objetos companies para aplicação
   "companies": [
     {
       "id": 1,
